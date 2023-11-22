@@ -1,57 +1,51 @@
+Rapport d'Analyse des Ventes E-commerce
+Vue d'ensemble
 
-# E-commerce Sales Analysis Report
+Ce rapport fournit une analyse détaillée des ventes mensuelles d'une plateforme e-commerce, en se concentrant sur les catégories de produits, les dépenses des clients et diverses métriques de vente pour identifier les opportunités d'amélioration stratégique.
+Objectifs
 
-## Overview
+Les principaux objectifs de cette analyse sont :
 
-This report provides a comprehensive analysis of an e-commerce platform's monthly sales, focusing on product categories, customer spending, and various sales metrics to identify opportunities for strategic improvement.
+    Comprendre les raisons derrière la baisse du chiffre d'affaires.
+    Prévoir les tendances des ventes dans les mois à venir.
+    Évaluer l'impact du changement stratégique de l'année précédente sur les catégories de produits.
 
-## Objectives
+Constatations Clés
 
-The main goals of this analysis are to:
+    Le changement de stratégie, passant des produits high-tech à la nourriture et aux biens de consommation, a impacté la distribution des ventes.
+    Une baisse constante du taux de conversion visiteurs-acheteurs a été observée au cours de l'année écoulée.
+    Malgré la réduction des taux de conversion, le nombre de visites sur le site a considérablement augmenté, indiquant un potentiel de conversion de visiteurs en clients.
+    Le temps moyen passé sur le site pour les sessions aboutissant à un achat montre une variabilité, suggérant un potentiel d'amélioration de l'engagement client.
 
-- Understand the reasons behind the revenue decline.
-- Forecast sales trends in the coming months.
-- Assess the impact of the previous year's strategic shift in product categories.
+Visualisations de Données
 
-## Key Findings
+Le rapport inclut plusieurs visualisations clés :
 
-- A shift in strategy from high-tech products to food and consumer goods has impacted sales distribution.
-- A consistent decrease in the visitor-to-purchase conversion rate has been observed over the past year.
-- Despite a reduction in conversion rates, the number of site visits has significantly increased, indicating a potential to convert more visitors into customers.
-- The average time spent on the site for sessions resulting in a purchase shows variability, suggesting room for improving customer engagement.
+    Répartition des ventes par catégorie de produit au fil du temps.
+    Modèles de dépenses des clients reflétés par le montant moyen d'achat.
+    Variabilité du temps passé sur le site pour les sessions d'achat.
+    Tendances des visites sur le site et des ventes au fil du temps, soulignant la nécessité d'améliorer les stratégies de conversion.
 
-## Data Visualizations
+Technologies Utilisées
 
-Included in this report are several key visualizations:
+    Python pour l'analyse des données et la modélisation prédictive.
+    Outils de Visualisation de Données pour la présentation des indicateurs clés et des insights.
 
-- Sales distribution by product category over time.
-- Customer spending patterns as reflected by the average purchase amount.
-- Variability in the time spent on the site for purchasing sessions.
-- Trends in site visits and sales over time, highlighting the need for improved conversion strategies.
+Structure du Dépôt
 
-## Technologies Used
+    data/ - Contient les fichiers de données brutes et traitées.
+    scripts/ - Inclut les scripts Python pour le nettoyage et l'analyse des données.
+    visualisations/ - Contient les graphiques et diagrammes générés pour le rapport.
 
-- **Python** for data analysis and predictive modeling.
-- **Data Visualization Tools** for presenting key metrics and insights.
+Installation et Utilisation
 
-## Repository Structure
+Des instructions sur la manière de configurer l'environnement, installer les dépendances et exécuter les scripts d'analyse sont fournies.
+Contributions
 
-- `data/` - Contains the raw and processed data files.
-- `scripts/` - Includes Python scripts for data cleaning and analysis.
-- `visualizations/` - Contains generated graphs and charts for the report.
+Des directives pour les membres de l'équipe ou les parties prenantes qui souhaitent contribuer à l'analyse ou offrir des insights sont incluses.
+Contact
 
-## Usage
+Pour toute question ou suggestion concernant ce rapport :
 
-Instructions on how to set up the environment, install dependencies, and run the analysis scripts are provided.
-
-## Contributions
-
-Guidelines for team members or stakeholders who wish to contribute to the analysis or offer insights are included.
-
-## Contact
-
-For any questions or suggestions regarding this report:
-
-- **Email**: [cl2ment.gillaux@gmail.com](mailto:cl2ment.gillaux@gmail.com)
-- **LinkedIn**: [Clément Gillaux](www.linkedin.com/in/clément-gillaux-a3b61429b)
-
+    Email : cl2ment.gillaux@gmail.com
+    LinkedIn : Clément Gillaux
