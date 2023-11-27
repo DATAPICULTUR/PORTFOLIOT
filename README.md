@@ -1,55 +1,186 @@
 # PORTFOLIOT
+1. Étude sur l'eau potable (Tableau)
 
-. Étude sur l'eau potable (Tableau)
+Badge: Expert en visualisation
 
-    Mise en situation : Analyse approfondie de la qualité de l'eau potable à travers différentes régions, en utilisant des visualisations avancées pour identifier les zones critiques.
-    Compétences : Visualisation de données avec Tableau, analyse exploratoire, traitement des données environnementales.
-    Notions utilisées : Tableau, analyse de données environnementales, visualisation.
+Mise en situation :
+
+    Analyse de la qualité de l'eau potable à travers diverses régions.
+    Utilisation de visualisations avancées pour identifier les zones critiques.
+
+Compétences Clés :
+
+    Visualisation de données avec Tableau.
+    Analyse exploratoire et traitement des données environnementales.
+
+Technologies :
+
+    Tableau.
+    Analyse de données environnementales.
+
+Animation :
+
+    Voir la visualisation interactive (lien vers une démo interactive ou une vidéo).
 
 2. Analyse (E-commerce)
 
-    Mise en situation : Exploration des données d'une plateforme d'e-commerce pour comprendre les tendances des ventes et le comportement des clients.
-    Compétences : Traitement de données e-commerce, visualisation, analyse statistique.
-    Notions utilisées : Python (Pandas, Matplotlib), analyse de données de vente.
+Badge: Data Analyst E-commerce
 
-3. Analyse des indicateurs de l'égalité femme-homme (Knime)
+Mise en situation :
 
-    Mise en situation : Utilisation de Knime pour étudier les disparités de genre dans divers secteurs et proposer des solutions.
-    Compétences : Analyse de données sociales, sensibilisation aux problèmes de genre, visualisation.
-    Notions utilisées : Knime, analyse de données sur l'égalité des sexes.
+    Exploration des données d'une plateforme d'e-commerce.
+    Compréhension des tendances des ventes et comportement des clients.
 
-4. Analyse des ventes d'une librairie
+Compétences Clés :
 
-    Mise en situation : Évaluation des performances de vente d'une chaîne de librairies et proposition de stratégies pour stimuler les ventes.
-    Compétences : Analyse de données de vente, compréhension du marché du livre, traitement des données.
-    Notions utilisées : Python (Pandas, Seaborn), statistique descriptive.
+    Traitement de données e-commerce.
+    Visualisation et analyse statistique.
 
-5. Création d'une base de données immobilière (SQL)
+Technologies :
 
-    Mise en situation : Développement d'une base de données immobilière pour analyser le marché immobilier.
-    Compétences : Conception de bases de données, SQL, analyse immobilière.
-    Notions utilisées : SQL, modèles de données relationnelles, analyse de données immobilières.
+    Python (Pandas, Matplotlib).
+
+Graphique Interactif :
+
+    Graphique P2 (lien vers un graphique interactif).
+
+3. Analyse des Indicateurs de l'Égalité Femme-Homme (Knime)
+
+Badge: Égalité des sexes
+
+Mise en situation :
+
+    Étude des disparités de genre dans divers secteurs avec Knime.
+
+Compétences Clés :
+
+    Analyse de données sociales et sensibilisation aux problèmes de genre.
+    Visualisation de données.
+
+Technologies :
+
+    Knime.
+
+Dashboard :
+
+    Dashboard sur l'égalité des sexes (lien vers un tableau de bord interactif).
+
+4. Analyse des Ventes d'une Librairie
+
+Badge: Analyste de Ventes
+
+Mise en situation :
+
+    Évaluation des performances de vente d'une chaîne de librairies.
+
+Compétences Clés :
+
+    Analyse de données de vente, compréhension du marché du livre.
+
+Technologies :
+
+    Python (Pandas, Seaborn).
+
+Visualisation :
+
+    Graphique P4 (lien vers un graphique ou une visualisation).
+
+5. Création d'une Base de Données Immobilière (SQL)
+
+Badge: Spécialiste SQL
+
+Mise en situation :
+
+    Développement d'une base de données immobilière pour l'analyse du marché.
+
+Compétences Clés :
+
+    Conception de bases de données, analyse immobilière.
+
+Technologies :
+
+    SQL.
+
+Schéma de Base de Données :
+
+    Voir le schéma (lien vers un schéma de base de données).
 
 6. DATABASE GESTION
 
-    Mise en situation : Optimisation et sécurisation d'une base de données d'entreprise.
-    Compétences : Administration de bases de données, sécurité des données, optimisation.
-    Notions utilisées : SQL, gestion de bases de données.
+Badge: Administrateur de Base de Données
 
-7. Étude de marché (Python)
+Mise en situation :
 
-    Mise en situation : Analyse de marché pour aider une entreprise agroalimentaire à se développer internationalement.
-    Compétences : Analyse de marché, traitement de données, visualisation.
-    Notions utilisées : Python (Pandas, Matplotlib), statistiques inférentielles.
+    Optimisation et sécurisation d'une base de données d'entreprise.
 
-8. F.A.O Étude de Santé publique
+Compétences Clés :
 
-    Mise en situation : Collaboration avec la FAO pour une analyse de la sous-nutrition mondiale.
-    Compétences : Analyse de données de santé publique, traitement statistique avancé, SQL.
-    Notions utilisées : Python, SQL, analyse de données de santé publique.
+    Administration de bases de données, sécurité des données.
 
-9. Modèle de détection des faux billets (Python)
+Technologies :
 
-    Mise en situation : Développement d'un modèle de machine learning pour détecter les faux billets.
-    Compétences : Machine learning, Python, analyse de données, modélisation statistique.
-    Notions utilisées : Python (Scikit-learn, Pandas),
+    SQL.
+
+Exemple de Script SQL :
+
+    Voir le script (lien vers un exemple de script SQL).
+
+7. Étude de Marché (Python)
+
+Badge: Analyste de Marché
+
+Mise en situation :
+
+    Analyse de marché pour une entreprise agroalimentaire.
+
+Compétences Clés :
+
+    Analyse de marché, traitement de données.
+
+Technologies :
+
+    Python (Pandas, Matplotlib).
+
+Graphique Interactif :
+
+    Graphique P5 (lien vers un graphique interactif).
+
+8. F.A.O Étude de Santé Publique
+
+Badge: Expert en Santé Publique
+
+Mise en situation :
+
+    Collaboration avec la FAO pour une analyse de la sous-nutrition mondiale.
+
+Compétences Clés :
+
+    Analyse de données de santé publique.
+
+Technologies :
+
+    Python, SQL.
+
+Dashboard de Santé Publique :
+
+    Voir le dashboard (lien vers un tableau de bord interactif).
+
+9. Modèle de Détection des Faux Billets (Python)
+
+Badge: Spécialiste Machine Learning
+
+Mise en situation :
+
+    Développement d'un modèle de machine learning pour détecter les faux billets.
+
+Compétences Clés :
+
+    Machine learning, modélisation statistique.
+
+Technologies :
+
+    Python (Scikit-learn, Pandas).
+
+Démo du Modèle :
+
+    Voir la démo (lien vers une démo ou une visualisation du modèle).
